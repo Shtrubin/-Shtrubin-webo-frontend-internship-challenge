@@ -919,6 +919,12 @@ nav{
   color: #898899;
 
 }
+
+.social-icon:hover{ 
+  scale: 1.5;
+  transition: 0.2s;
+}
+
 .subscribe input{
   /* margin-top: 10px; */
   height: 44px;
@@ -943,6 +949,11 @@ nav{
   border:none;
   padding-left: 10px;
   padding-right: 10px;
+}
+
+.subscribe button:hover{
+  scale: 1.09;
+  transition: 0.5s;
 }
 .copyright{
   text-align: center;
