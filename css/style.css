@@ -852,7 +852,7 @@ nav{
 }
 
 .img-background{
-  background-image:url(/assets/images/banner.png);
+  background-image:url(assets/images/banner.png);
   background-size: contain;
   border-radius: 20px;
   height: 500px;
