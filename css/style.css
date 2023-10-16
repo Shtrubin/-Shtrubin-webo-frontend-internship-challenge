@@ -339,3 +339,98 @@ nav{
   scale: 1.05;
 }
 
+.payment-main{
+  display: flex;
+  /* justify-content: space-evenly; */
+  margin-top: 100px;
+
+}
+
+.balance{
+  margin-left: 50px;
+  width: 50%;
+
+}
+
+.balance img{
+  width: 100%;
+}
+
+.payment-statement{
+  margin-top: 20px;
+  padding-left: 100px;
+  width: 50% ;
+}
+
+.why{
+  color: blue;
+  font-size: 12px;
+}
+.payment-statement h1{
+  font-size: 40px;
+}
+
+.payment-sub{
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+.payment-list i{
+  color: #fdbc64;
+
+}
+.payment-list{
+  margin-top: 20px;
+  line-height: 2;
+}
+
+
+
+.features-main{
+  background-color: #c9e7f2;
+  padding: 100px;
+  padding-left: 150px;
+}
+
+.features-container{
+  display: flex;
+  justify-content: space-between;
+  
+
+}
+.features-container div{
+  margin-right: 20px;
+  background-color: white;
+  border-radius: 10px;
+  padding: 30px;
+  height: 307px;
+}
+
+.features-container div i{
+  font-size: 40px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.features-main h1{
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+.features-container h3{
+  padding-bottom: 20px;
+}
+.features-main p{
+  margin-bottom: 50px;
+}
+
+.merit-belive{
+  background: none!important;
+  display: flex;
+  flex-direction: column;
+  padding: 0px!important;
+  margin-right: 0px;
+}
+
+.merit-belive div{
+  margin-bottom: 30px;
+
+}
